@@ -1,0 +1,17 @@
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\bin\Debug\net8.0-windows\BasicQueueingCashier.exe
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\bin\Debug\net8.0-windows\BasicQueueingCashier.deps.json
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\bin\Debug\net8.0-windows\BasicQueueingCashier.runtimeconfig.json
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\bin\Debug\net8.0-windows\BasicQueueingCashier.dll
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\bin\Debug\net8.0-windows\BasicQueueingCashier.pdb
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.QueueingForm.resources
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.csproj.GenerateResource.cache
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.GeneratedMSBuildEditorConfig.editorconfig
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.AssemblyInfoInputs.cache
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.AssemblyInfo.cs
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.csproj.CoreCompileInputs.cache
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.dll
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\refint\BasicQueueingCashier.dll
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.pdb
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.genruntimeconfig.cache
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\ref\BasicQueueingCashier.dll
+D:\MattCode\3rdYear1st\VisualTIamat\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.Cashier.resources
